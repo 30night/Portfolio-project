@@ -10,5 +10,13 @@
 .maincontainer {
 perspective: 100px;
 height: 100vh;
+display: flex;
 color: green;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  border: solid black 1px;
+  background-color: violet;
 }
