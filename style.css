@@ -14,6 +14,10 @@ display: flex;
 background-color: yellowgreen;
 }
 
+.navigation-grid-container{
+  height: 100vh;
+  display: flex;
+}
 .navigation-grid{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
