@@ -61,6 +61,7 @@ nav a{
 margin: 5px 20px;
 height: auto;
 padding-top: 5px;
+font-size: .9rem;
 }
 
 nav{
@@ -73,9 +74,26 @@ nav{
   text-decoration: none;
   bottom: 0;
   margin-left: 20vw;
+  padding-top: 5px;
  
 }
 
 .txt-type > .txt {
   border-right: 0.2rem solid orange;
+}
+
+.about-container{
+  display: flex;
+  width: 95vw;
+  height: 95vh;
+  color: black;
+}
+
+.about-container p {
+  color: aqua;
+}
+
+.about-container img {
+  width: 50%;
+  height: 50%;
 }
