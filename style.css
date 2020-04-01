@@ -55,3 +55,20 @@ h2 {
     font-size: 1.5rem;
   }
 }
+
+
+nav a{
+margin: 0px 10vw;
+}
+
+nav{
+  height: 50px;
+  position: fixed;
+  background-color: black;
+  color: white;
+  width: 50vw ;
+  text-align: center;
+  text-decoration: none;
+  bottom: 0;
+  margin-left: 20vw;
+}
