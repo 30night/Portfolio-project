@@ -58,7 +58,7 @@ h2 {
 
 
 nav a{
-margin: 0px 10vw;
+margin: 0px 40px;
 }
 
 nav{
@@ -71,6 +71,7 @@ nav{
   text-decoration: none;
   bottom: 0;
   margin-left: 20vw;
+ 
 }
 
 .txt-type > .txt {
