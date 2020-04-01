@@ -83,6 +83,7 @@ nav{
 }
 
 .about-container{
+  padding: 50px;
   display: flex;
   width: 95vw;
   height: 95vh;
@@ -90,10 +91,14 @@ nav{
 }
 
 .about-container p {
-  color: aqua;
+  color: black;
+  font-size: 20px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .about-container img {
-  width: 50%;
-  height: 50%;
+  width: 40vw;
+  height: 50vh;
+  justify-content: center;
+  align-items: center;
 }
