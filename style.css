@@ -34,9 +34,9 @@ h2 {
   h1 {
     font-size: 5rem;
   }
-  /* .card-wrapper{
+  .card-wrapper{
     width: 50%;
-  } */
+  }
 }
 
 @media(max-width: 800px) {
@@ -47,10 +47,10 @@ h2 {
   h1 {
     font-size: 3rem;
   }
-/* 
+
   .card-wrapper{
     width: 100%;
-  } */
+  }
 }
 
 @media(max-width: 500px) {
@@ -186,6 +186,7 @@ nav{
 .project-container{
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
 .card-wrapper{
